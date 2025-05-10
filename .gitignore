@@ -32,3 +32,6 @@ Migrations/
 # dotnet tools
 /.tools/
 
+*.json
+!appsettings.json
+!appsettings.Development.json
